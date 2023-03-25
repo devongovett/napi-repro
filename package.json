@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "rm -rf .parcel-cache && parcel build entry.parcel2.js"
+  },
+  "dependencies": {
+    "parcel": "nightly"
+  }
+}
